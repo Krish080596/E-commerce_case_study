@@ -1,4 +1,4 @@
-# Ecommrce-SQL
+# Ecommerce-SQL
 
 #### Problem Statement:
 
